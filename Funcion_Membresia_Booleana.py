@@ -54,7 +54,7 @@ def membresia_trapezoidal(x, x0, x1, x2, x3):
         
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Método de Mamdani
+# Método de Mamdani 
 # Este método es uno de los más utilizados en la lógica difusa. Combina reglas difusas con operadores de conjuntos difusos para obtener un resultado 
 # difuso.
 # Paso 1. Se evalúan todas las reglas difusas y se obtiene un conjunto difuso para cada una.
